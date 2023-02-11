@@ -1,0 +1,8 @@
+C:\Users\Ricar\OneDrive\Escritorio\PracticaInmueble\bin\Debug\PracticaInmueble.exe.config
+C:\Users\Ricar\OneDrive\Escritorio\PracticaInmueble\bin\Debug\PracticaInmueble.exe
+C:\Users\Ricar\OneDrive\Escritorio\PracticaInmueble\bin\Debug\PracticaInmueble.pdb
+C:\Users\Ricar\OneDrive\Escritorio\PracticaInmueble\obj\Debug\PracticaInmueble.csproj.AssemblyReference.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaInmueble\obj\Debug\PracticaInmueble.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaInmueble\obj\Debug\PracticaInmueble.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaInmueble\obj\Debug\PracticaInmueble.exe
+C:\Users\Ricar\OneDrive\Escritorio\PracticaInmueble\obj\Debug\PracticaInmueble.pdb
